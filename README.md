@@ -6,19 +6,12 @@ This repository is used to share common files that can be shared by all our othe
 
 Copyright (C) 2025 Michael Altfield and the Eco-Libre Team
 
-The contents of this repo are under the GPL version 3 or later.
-In addition, any content other than code can also be used, at your
-choice, under CC-BY-SA version 4.0.
+All of Eco-Libre Project's content (including this documentation) is dual-licensed. All code is GPLv3 and all other content is CC BY-SA 4.0
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+You can read the GPLv3 license here:
+ * https://www.gnu.org/licenses/gpl-3.0.txt
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+And you can read the CC BY-SA 4.0 license here:
+ * https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+Per the terms in these licenses, you're welcome to reuse our works, but you must display prominent attribution back to our Eco-Libre project official website (https://www.eco-libre.org/) and your work must also be copyleft under equivalent licenses.
